@@ -1,5 +1,3 @@
-## About me 👋
-
 # Hi, I'm Presha Pathak 👋
 
 🎓 MBA Candidate at IIM Kozhikode  
