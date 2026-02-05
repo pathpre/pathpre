@@ -33,8 +33,7 @@ Currently pursuing my MBA from **IIM Kozhikode**, I am deeply interested in the 
 - Docker
 - Kubernetes
 - Jenkins
-- CI/CD Pipelines
-
+  
 ---
 
 ## 🏆 Certifications
