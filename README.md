@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate DevOps professional crafting robust and scalable IT infrastructure. I leverage my expertise in Linux, Networking, Ansible, AWS, System Administration and OS to ensure seamless operations. I'm a data-driven problem-solver eager to leverage my analytical skills to automate processes and drive continuous improvement.
+I'm a passionate SRE Automation Engineer crafting robust and scalable IT infrastructure. I leverage my expertise in Linux, Networking, Ansible, AWS, System Administration and OS to ensure seamless operations. I'm a data-driven problem-solver eager to leverage my analytical skills to automate processes and drive continuous improvement.
 
 Currently pursuing my MBA from **IIM Kozhikode**, I am deeply interested in the convergence of **technology, business strategy, and AI-driven transformation**.
 
