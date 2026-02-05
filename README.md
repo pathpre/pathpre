@@ -62,9 +62,8 @@ Currently pursuing my MBA from **IIM Kozhikode**, I am deeply interested in the 
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (Add LinkedIn link)
-- 🐦 Twitter / X: (Add Twitter link)
-- 📧 Email: (Optional – only if you want public contact)
+- 💼 LinkedIn: www.linkedin.com/in/presha-pathak
+- 📧 Email: pathak.presha24@gmail.com
 
 ---
 
